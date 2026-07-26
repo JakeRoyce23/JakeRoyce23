@@ -1,16 +1,112 @@
-## Hi there 👋
+#  Hi, I'm **Jake Royce**
 
-<!--
-**JakeRoyce23/JakeRoyce23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring **IT Operations Associate** • **QA Analyst** • **Web Developer**
 
-Here are some ideas to get you started:
+------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👨‍💻 About Me
+
+-   🎓 BS Information Technology Student
+-   💻 Interested in Web Development, QA, IT Operations, and System
+    Administration
+-   🌱 Currently learning Laravel, React, Tailwind CSS, and modern
+    full-stack development.
+-   📫 Email: **abrenicajakeroyce9@gmai.com**
+
+------------------------------------------------------------------------
+
+# 💻 Tech Stack
+
+## Languages
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+## Frameworks & Libraries
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React
+Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+
+## Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
+![SQL
+Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS
+Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+------------------------------------------------------------------------
+
+# 📂 Featured Projects
+
+-   ⭐ Project 1 --- Tres Leah's Kitchen POS System
+------------------------------------------------------------------------
+
+# 📜 Certifications
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/IBM-Certified-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/>
+
+<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+
+<img src="https://img.shields.io/badge/Pearson-Certified-005DAA?style=for-the-badge&logoColor=white" alt="Pearson"/>
+
+<img src="https://img.shields.io/badge/CodeChum-Certified-F28C28?style=for-the-badge&logoColor=white" alt="CodeChum"/>
+
+</p>
+
+# 🏅 Digital Badges
+
+### IBM
+
+- 🔗 [IBM Data Fundamentals](IBM_BADGE_LINK)
+- 🔗 [IBM AI Fundamentals](IBM_AI_BADGE_LINK)
+
+### Cisco
+
+- 🔗 [Introduction to Networks](CISCO_BADGE_LINK)
+- 🔗 [Cybersecurity Essentials](CISCO_CYBER_LINK)
+
+### Pearson
+
+- 🔗 [Pearson English Certification](PEARSON_BADGE_LINK)
+
+### CodeChum
+
+- 🔗 [Java Programming](CODECHUM_BADGE_LINK)
+- 🔗 [Object-Oriented Programming](CODECHUM_OOP_LINK)
+
+------------------------------------------------------------------------
+
+# 📊 GitHub Stats
+
+![](https://streak-stats.demolab.com?user=jakeroyce23&theme=github-dark&hide_border=true)
