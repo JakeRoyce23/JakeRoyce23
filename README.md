@@ -113,9 +113,12 @@ Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visua
 
 ### CodeChum
 
-- 🔗 [Java Programming](CODECHUM_BADGE_LINK)
-- 🔗 [Object-Oriented Programming](CODECHUM_OOP_LINK)
+- 🔗 [Basic Web Development](https://app.codechum.com/certificates/10220)
+- 🔗 [Information Management](https://app.codechum.com/certificates/10112)
 
+### National Certificate
+
+- 🔗 [NC II - Computer Systems Servicing](NC2 Computer Systems Servicing.jpg)
 ------------------------------------------------------------------------
 
 # 📊 GitHub Stats
