@@ -88,17 +88,28 @@ Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visua
 
 ### IBM
 
-- 🔗 [IBM Data Fundamentals](IBM_BADGE_LINK)
-- 🔗 [IBM AI Fundamentals](IBM_AI_BADGE_LINK)
-
+- 🔗 [Working in a Digital World: Professional Skills](https://www.credly.com/badges/3c1ea048-a2e5-4b43-926e-3968030043e6/public_url)
+- 🔗 [SkillsBuild - Customer Engagement: Problem Solving and Process Controls](https://www.credly.com/badges/79b406af-e9ae-417e-813f-b8e4ed41c6e9/public_url)
+- 🔗 [Project Management Fundamentals](https://www.credly.com/badges/d5c50a8c-09bc-44a4-a336-ad004e69603d/public_url)
+- 🔗 [Fundamentals of Sustainability and Technology](https://www.credly.com/badges/af2f7345-de3e-45a3-a397-6bb0fca9463f/public_url)
+- 🔗 [Explore Emerging Tech](https://www.credly.com/badges/1d9a6b14-7427-469b-9b7b-9a394a74aff6/public_url)
+- 🔗 [Enterprise Design Thinking Practitioner](https://www.credly.com/badges/13f002dd-0b98-4245-96fb-09fb5d7b72e5/public_url)
+- 🔗 [Customer Engagement Fundamentals](https://www.credly.com/badges/c1a511bc-54c2-456b-b2e4-f84c1d423a4b/public_url)
+- 🔗 [Cloud Computing Fundamentals](https://www.credly.com/badges/e4e8d186-39d2-47d0-8051-eda923e47df9/public_url)
+- 🔗 [Artificial Intelligence Fundamentals](https://www.credly.com/badges/aeae3b0a-3bcb-49ae-887f-b64c1d2d07a5/public_url)
+- 🔗 [Agile Explorer](https://www.credly.com/badges/ed39b607-9ce9-48dd-a0c7-c58ec3dffb1a/public_url)
+  
 ### Cisco
 
-- 🔗 [Introduction to Networks](CISCO_BADGE_LINK)
-- 🔗 [Cybersecurity Essentials](CISCO_CYBER_LINK)
+- 🔗 [Network Addressing and Basic Troubleshooting](https://www.credly.com/badges/49b90d7d-2cd8-472d-876a-f769d76a7152/public_url)
+- 🔗 [IT Customer Support Basics](https://www.credly.com/badges/641ae3dd-ad04-489c-9224-4dbbdcea535d/public_url)
+- 🔗 [Introduction to Cybersecurity](https://www.credly.com/badges/023b2194-974f-4deb-af09-8dc2bd6e2ac5/public_url)
+- 🔗 [Ethical Hacker](https://www.credly.com/badges/b779104b-18bb-4180-bb33-627a9e1c79df/public_url)
+- 🔗 [English for IT 1](https://www.credly.com/badges/a5b5b68d-f2f4-4b88-b807-b30db24ebdb0/public_url)
 
-### Pearson
+### Certiport
 
-- 🔗 [Pearson English Certification](PEARSON_BADGE_LINK)
+- 🔗 [Critical Career Skills - Professional Communication](https://www.credly.com/badges/e40ae229-30cc-4314-9fd4-9333559aedae/public_url)
 
 ### CodeChum
 
