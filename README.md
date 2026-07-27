@@ -74,13 +74,17 @@ Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visua
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/IBM-Certified-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/>
+<img src="https://img.shields.io/badge/IBM-Professional_Certification-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/>
 
-<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+<img src="https://img.shields.io/badge/Cisco-Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
 
-<img src="https://img.shields.io/badge/Pearson-Certified-005DAA?style=for-the-badge&logoColor=white" alt="Pearson"/>
+<img src="https://img.shields.io/badge/Pearson-Certification-005DAA?style=for-the-badge&logoColor=white" alt="Pearson"/>
 
-<img src="https://img.shields.io/badge/CodeChum-Certified-F28C28?style=for-the-badge&logoColor=white" alt="CodeChum"/>
+<img src="https://img.shields.io/badge/CodeChum-Certification-F28C28?style=for-the-badge&logoColor=white" alt="CodeChum"/>
+
+<img src="https://img.shields.io/badge/Lean_Six_Sigma-White_Belt-E5E7EB?style=for-the-badge&logoColor=black" alt="Lean Six Sigma White Belt"/>
+
+<img src="https://img.shields.io/badge/Lean_Six_Sigma-Yellow_Belt-F4C430?style=for-the-badge&logoColor=black" alt="Lean Six Sigma Yellow Belt"/>
 
 </p>
 
@@ -111,6 +115,10 @@ Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visua
 
 - 🔗 [Critical Career Skills - Professional Communication](https://www.credly.com/badges/e40ae229-30cc-4314-9fd4-9333559aedae/public_url)
 
+### Lean Six Sigma
+- 🔗 [White Belt Certificate](https://app.codechum.com/certificates/10220)
+- 🔗 [Yellow Belt Certificate](https://app.codechum.com/certificates/10220)
+  
 ### CodeChum
 
 - 🔗 [Basic Web Development](https://app.codechum.com/certificates/10220)
@@ -118,7 +126,7 @@ Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visua
 
 ### National Certificate
 
-- NC II - Compter Systems Servicing](https://github.com/JakeRoyce23/JakeRoyce23/blob/1cee84482b88b171e0abecee1092dc1e05284e83/NC2%20Computer%20Systems%20Servicing.pdf)
+- 🔗 [NC II - Compter Systems Servicing](https://github.com/JakeRoyce23/JakeRoyce23/blob/1cee84482b88b171e0abecee1092dc1e05284e83/NC2%20Computer%20Systems%20Servicing.pdf)
 ------------------------------------------------------------------------
 
 # 📊 GitHub Stats
