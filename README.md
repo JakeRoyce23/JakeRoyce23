@@ -116,7 +116,7 @@ Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visua
 - 🔗 [Critical Career Skills - Professional Communication](https://www.credly.com/badges/e40ae229-30cc-4314-9fd4-9333559aedae/public_url)
 
 ### Lean Six Sigma
-- 🔗 [White Belt Certificate](https://app.codechum.com/certificates/10220)
+- 🔗 [White Belt Certificate](https://github.com/JakeRoyce23/JakeRoyce23/blob/de84d4c7cfa12048c8e2dcc1ccdf7c4f65025840/WHITE%20BELT.pdf)
 - 🔗 [Yellow Belt Certificate](https://app.codechum.com/certificates/10220)
   
 ### CodeChum
