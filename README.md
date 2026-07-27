@@ -1,4 +1,4 @@
-#  Hi, I'm **Jake Royce**
+#  Hi, I'm **Jake Royce!**
 
 ### Aspiring **IT Operations Associate** • **QA Analyst** • **Web Developer**
 
@@ -117,7 +117,7 @@ Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visua
 
 ### Lean Six Sigma
 - 🔗 [White Belt Certificate](https://github.com/JakeRoyce23/JakeRoyce23/blob/de84d4c7cfa12048c8e2dcc1ccdf7c4f65025840/WHITE%20BELT.pdf)
-- 🔗 [Yellow Belt Certificate](https://app.codechum.com/certificates/10220)
+- 🔗 [Yellow Belt Certificate](https://github.com/JakeRoyce23/JakeRoyce23/blob/818ce7f8e66f0e175dcba338ba6ef93988f4815e/YELLOW%20BELT.pdf)
   
 ### CodeChum
 
