@@ -118,7 +118,7 @@ Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visua
 
 ### National Certificate
 
-- 🔗 [NC II - Computer Systems Servicing](NC2 Computer Systems Servicing.jpg)
+![NC2 Certificate](NC2 Computer Systems Servicing.jpg)
 ------------------------------------------------------------------------
 
 # 📊 GitHub Stats
