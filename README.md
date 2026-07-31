@@ -11,7 +11,7 @@
     Administration
 -   🌱 Currently learning Laravel, React, Tailwind CSS, and modern
     full-stack development.
--   📫 Email: **abrenicajakeroyce9@gmaiL.com**
+-   📫 Email: **abrenicajakeroyce9@gmail.com**
 
 ------------------------------------------------------------------------
 
